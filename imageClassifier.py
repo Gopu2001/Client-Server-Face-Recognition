@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, sys
 #stderr = sys.stderr
 sys.stderr = open(os.devnull, 'w')
